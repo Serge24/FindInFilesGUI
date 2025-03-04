@@ -122,7 +122,7 @@
         }
 
         #endregion
-
+         
         private TextBox python_location;
         private TextBox find_in_file_prj;
         private Button save_btn;

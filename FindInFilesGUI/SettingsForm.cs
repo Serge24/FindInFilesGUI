@@ -14,7 +14,7 @@ namespace FindInFilesGUI
     {
         public SettingsForm()
         {
-            InitializeComponent();
+            InitializeComponent(); 
         }
 
         private void Onsave_btn_Click(object sender, EventArgs e)
